@@ -9,6 +9,8 @@ South Africa.
 University, Stellenbosch, Western Cape, South Africa
 * Correspondence: gonzalol@innovatesolutions.ie
 
+<img height="400" src="./graphical_abstract.jpeg" hspace="50" >
+
 ## Abstract
 In wine sensory evaluation, the integration of advanced data analysis techniques with 
 more traditional approaches is essential for addressing challenges and improving 
